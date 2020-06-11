@@ -1,0 +1,13 @@
+{
+    "name": "tassilo/php-discord-webhooks",
+    "description": "A simple PHP library to execute Discord webhooks.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tassilo",
+            "email": "tassia710@gmail.com"
+        }
+    ],
+    "require": {}
+}
