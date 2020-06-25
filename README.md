@@ -1,4 +1,7 @@
 # PHP Discord Webhooks
+![](https://img.shields.io/github/license/TASSIA710/PHP-Discord-Webhooks?style=for-the-badge)
+![](https://img.shields.io/github/issues/TASSIA710/PHP-Discord-Webhooks?style=for-the-badge)
+
 A simple, single-file PHP library to execute Discord webhooks.
 
 ## Example
